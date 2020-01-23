@@ -1,8 +1,10 @@
 ## Common Packages
 #  ---------------
+sudo apt install make
 sudo apt-get -y update
 sudo apt-get -y upgrade
 sudo apt-get -y install software-properties-common libssl-dev openssl wget
+
 
 ## Install latest Python 3
 #  -----------------------
