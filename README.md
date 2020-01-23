@@ -15,11 +15,11 @@ simple script to change the python for 3.4.3 for Holberton.
 
 Go to the cd $HOME and open the .bashrc, paste the new config on the end of the file and run source ./.bashrc for restart changes. Enjoy
 
-(Modify the prompt bash)[http://ezprompt.net/]
+[http://ezprompt.net/](Modify the prompt bash)
 
 
 ## Hipposcraper  
 
 The Hipposcraper automates file template creation for Holberton projects. The program takes a link to a Holberton School project, scrapes the webpage, and creates the corresponding directory and files. The Hipposcraper currently supports the following
 
-(https://github.com/kai-dg/hipposcraper)[Github]
+[https://github.com/kai-dg/hipposcraper](Github)
