@@ -5,7 +5,9 @@ Simple tools for new configuration for holberton if you have new laptop or somen
 
 Run script and press enter, and enter, and enter. And copy all ssh-rsa, put the new ssh in github and run the command
 
-### ssh -T git@github.com
+```bash
+$ ssh -T git@github.com
+```
 
 ## install_python3.sh
 
