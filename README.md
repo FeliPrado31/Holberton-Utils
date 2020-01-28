@@ -17,6 +17,12 @@ Go to the cd $HOME and open the .bashrc, paste the new config on the end of the 
 
 http://ezprompt.net/
 
+My fav config, for now.
+
+LS_COLORS="di=1;35:ex=4;31:*.mp3=1;32;41"
+export PS1="\[\033[38;5;5m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]:\[$(tput sgr0)\]\[\033[38;5;6m\][\[$(tput sgr0)\]\[\033[38;5;13m\]\W\[$(tput sgr0)\]\[\033[38;5;6m\]]:\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]"
+
+![Image of my bash](./img/1.GIF)
 
 ## Hipposcraper  
 
