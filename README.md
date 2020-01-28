@@ -33,3 +33,6 @@ export PS1="\[\033[38;5;5m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]:\[$(tput sgr0)\]
 The Hipposcraper automates file template creation for Holberton projects. The program takes a link to a Holberton School project, scrapes the webpage, and creates the corresponding directory and files. The Hipposcraper currently supports the following
 
 https://github.com/kai-dg/hipposcraper
+
+
+So, i will add new configs in the future. Enojoy and give me one start.
