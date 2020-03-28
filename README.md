@@ -36,3 +36,38 @@ https://github.com/kai-dg/hipposcraper
 
 
 So, i will add new configs in the future. Enojoy and give me one start.
+
+You're working from a container in a docker, but you're tired of editing things through a terminal, strange vscode or ide?
+
+Well, this tool will be useful for you to do your tasks as a developer and keep editing or programming what you like. (For more information read the documentation)
+
+With this script you will install version 3.0.1 (And I won't update the script so you better read what's inside).
+
+## How to use it.
+
+``bash
+chmod 777 code-server.sh
+./code-server.sh
+```
+
+``bash
+code-server .
+```
+
+With that command you will launch a server at localhost
+
+There are more options that you can consult in the code-server repository, but I leave you some useful ones.
+
+
+## Disable password
+
+```bash
+--auth none
+```
+
+## Set port
+
+``bash
+--port <port>
+```
+
