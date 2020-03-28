@@ -34,6 +34,7 @@ The Hipposcraper automates file template creation for Holberton projects. The pr
 
 https://github.com/kai-dg/hipposcraper
 
+## Code-Server
 
 So, i will add new configs in the future. Enojoy and give me one start.
 
@@ -41,7 +42,9 @@ You're working from a container in a docker, but you're tired of editing things 
 
 Well, this tool will be useful for you to do your tasks as a developer and keep editing or programming what you like. (For more information read the documentation)
 
-With this script you will install version 3.0.1 (And I won't update the script so you better read what's inside).
+With this script you will install version 2.1698-vsc1.41.1 (And I won't update the script so you better read what's inside).
+
+https://github.com/cdr/code-server
 
 ## How to use it.
 
